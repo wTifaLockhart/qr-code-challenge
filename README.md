@@ -20,7 +20,7 @@ is this a frontendmentor.io easy coding challenge?!?!?
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](/screenshot.png)
 
 ### Links
 
